@@ -1,14 +1,14 @@
 # Proyecto de Curso
 
-Curso: Ciencia de datos.
+![](https://camo.githubusercontent.com/3162ac62dec0d0d73c8826d305f68f00468657909694cf529c2b7f3d789f1806/68747470733a2f2f6964656e7469646164636f6c6563746976612e65732f76696374696d61732d646573617061726963696f6e65732f77702d636f6e74656e742f75706c6f6164732f323031362f31302f64657363617267612e706e67)
 
-Universidad de Chile - Segundo semestre, 2020.
+**Curso:** Ciencia de datos. Universidad de Chile - Segundo semestre, 2020.
 
-Profesor: Patricio Rodríguez.
+**Profesor:** Patricio Rodríguez.
 
-Ayudante: Alexis Villanueva. 
+**Ayudante:** Alexis Villanueva. 
 
-Integrantes: Sebastián Cortinez, Jan Dimter, Javiera Urrutia.
+**Integrantes:** Sebastián Cortinez, Jan Dimter, Javiera Urrutia.
 
 ## Objetivo (ficticio)
 
