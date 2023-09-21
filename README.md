@@ -1,9 +1,13 @@
 # Proyecto de Curso
 
 Curso: Ciencia de datos.
-Año: Segundo semestre, 2020.
+
+Universidad de Chile - Segundo semestre, 2020.
+
 Profesor: Patricio Rodríguez.
+
 Ayudante: Alexis Villanueva. 
+
 Integrantes: Sebastián Cortinez, Jan Dimter, Javiera Urrutia.
 
 ## Objetivo (ficticio)
